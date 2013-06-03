@@ -1,11 +1,1 @@
-#½éÉÜ
-metamorphosis×÷ÎªÊÂ¼şÊäÈëÔ´Ö§³Ötwitter stormµÄÅäÌ×ÏîÄ¿
-
-#ÒÀÀµ
-
-    <dependency>
-		<groupId>com.taobao.metamorphosis</groupId>
-		<artifactId>storm-metamorphosis-spout</artifactId>
-		<version>1.0.0</version>
-	</dependency>
-
+æœ¬é¡¹ç›®å·²ç»åºŸå¼ƒï¼Œè¿ç§»åˆ° https://github.com/killme2008/Metamorphosis/blob/master/metamorphosis-storm-spout/
